@@ -1,6 +1,3 @@
-
-  &nbsp;&nbsp;&nbsp;
-  
 # Linux Server Configuration
 
   The contents below illustrate how to configure a linux server that runs an already created item catalog application.
