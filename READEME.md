@@ -319,3 +319,15 @@
   `$ sudo service apache2 restart`
   
 # After all these commands are made, the web application is now live and functioning.
+
+## Special Thanks to:
+
+  Steven Wooding https://github.com/SteveWooding/fullstack-nanodegree-linux-server-config
+  
+  
+  
+  Stackoverflow
+  
+  
+  
+  Udacity Knowledge
