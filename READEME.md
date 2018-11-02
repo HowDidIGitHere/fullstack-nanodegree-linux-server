@@ -4,11 +4,13 @@
 
 ## Server Information
 
-  IP Address: `54.202.123.18`
+  IP Address: ~~`54.202.123.18`~~
 
   SSH Port: `2200`
 
-  URL: `http://ec2-54-202-123-18.us-west-2.compute.amazonaws.com`
+  URL: ~~`http://ec2-54-202-123-18.us-west-2.compute.amazonaws.com`~~
+  
+  I have since graduated the Udacity Full Stack Nanodegree program, so this webserver is offline.
 
 # Configurations
 
